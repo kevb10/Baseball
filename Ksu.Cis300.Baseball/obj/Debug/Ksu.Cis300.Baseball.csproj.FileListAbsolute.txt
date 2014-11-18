@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\bin\Debug\Ksu.Cis300.Baseball.exe.config
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\bin\Debug\Ksu.Cis300.Baseball.exe
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\bin\Debug\Ksu.Cis300.Baseball.pdb
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\obj\Debug\Ksu.Cis300.Baseball.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\obj\Debug\Ksu.Cis300.Baseball.UserInterface.resources
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\obj\Debug\Ksu.Cis300.Baseball.Properties.Resources.resources
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\obj\Debug\Ksu.Cis300.Baseball.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\obj\Debug\Ksu.Cis300.Baseball.exe
+C:\Users\Admin\Documents\KSU\Fall 2014\CIS 300\HW5\Ksu.Cis300.Baseball\Ksu.Cis300.Baseball\obj\Debug\Ksu.Cis300.Baseball.pdb
